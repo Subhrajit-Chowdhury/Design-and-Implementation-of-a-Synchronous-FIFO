@@ -37,17 +37,9 @@ This project implements and verifies a parameterised First-In-First-Out (FIFO) m
 ├── README.md       # This file
 ```
 
-## Getting Started
-- Clone the repo
-- Launch your simulator and run the testbench
-- Change parameters in source for different FIFO configurations
 
-## License
-MIT
 
-***
 
-*This project demonstrates industry-standard FIFO design and verification methodology. Contributions welcome!*
 
 [1] https://repository.rit.edu/cgi/viewcontent.cgi?article=11135&context=theses
 [2] https://vlsiverify.com/verilog/verilog-codes/synchronous-fifo/
