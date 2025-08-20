@@ -28,18 +28,6 @@ This project implements and verifies a parameterised First-In-First-Out (FIFO) m
 2. **Simulate:** Run testbench via ModelSim, Vivado, or equivalent
 3. **Analyze:** Check simulation logs and waveforms for verification results
 
-## Repository Structure
-```
-├── design/         # RTL FIFO source code
-│   └── FIFO.sv
-├── verification/   # Testbench, scoreboards, coverage, assertions
-│   └── tb_FIFO.sv
-├── README.md       # This file
-```
-
-
-
-
 
 [1] https://repository.rit.edu/cgi/viewcontent.cgi?article=11135&context=theses
 [2] https://vlsiverify.com/verilog/verilog-codes/synchronous-fifo/
